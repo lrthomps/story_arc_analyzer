@@ -1,0 +1,7 @@
+altair
+bottleneck
+fastapi
+gunicorn
+numpy
+pandas
+pydantic
